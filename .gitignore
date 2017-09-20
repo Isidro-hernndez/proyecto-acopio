@@ -45,3 +45,6 @@ application/logs/*
 !application/logs/.htaccess
 /vendor/
 >>>>>>> 76774663ef03379afc12b82c5b5d6891990909ac
+
+#files public
+backend/public_html/public/bower_components/*
