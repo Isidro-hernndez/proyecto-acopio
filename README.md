@@ -17,3 +17,5 @@ Sistema de recolección de información de centros de acopio
 	Nota: recuerda cambiar username por el nombre de usuario que se genero al instalar postgresql
 
 5.- Podra acceder desde el navegador a una dirección similiar a esta (http://localhost/) donde vera una pantalla de bienvenida, verifica desde que puerto se esta conectado Apache
+
+## Pasos para el cliente
