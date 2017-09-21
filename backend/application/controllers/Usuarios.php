@@ -34,15 +34,7 @@ class Usuarios extends CI_Controller {
 		$this->load->view('footer');
 	}
 
-	public function new(){
-		$this->load->view('header');
-		$this->load->view('usuarios/form');
-		$this->load->view('footer');
-	}
-
-	public function update(){
-		$this->load->view('header');
-		$this->load->view('usuarios/form');
-		$this->load->view('footer');
+	public function save(){
+		
 	}
 }
